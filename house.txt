@@ -1,0 +1,12 @@
+{"storeHouse": [
+{"sourceName":"主源","sourceUrl":"https://od.lk/s/NTVfMjc3OTc3NTFf/index.txt"},
+{"sourceName":"备源","sourceUrl":"https://d.kstore.space/download/3527/index.txt"},
+{"sourceName":"恒星","sourceUrl":"https://atomgit.com/hengxing/hx/raw/master/hxck1.txt"},
+{"sourceName":"绿茶","sourceUrl":"https://od.lk/s/NTVfMjc4MTMxOTFf/99.txt"},
+{"sourceName":"浮力","sourceUrl":"https://od.lk/s/NTVfMjc4MTMxOTJf/999.txt"},
+{"sourceName":"公子仓","sourceUrl":"https://gzc.hk3.345123.xyz/cangku.json"},
+{"sourceName":"大昌影仓","sourceUrl":"http://jk.cnrcs.link/ck/总仓.json"},
+{"sourceName":"100线路","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
+{"sourceName":"心动仓","sourceUrl":"https://atomgit.com/hengxing/hx/raw/master/XD.txt"},
+{"sourceName":"拾光仓","sourceUrl":"https://raw.gitmirror.com/xmbjm/xmbjm/main/xmbjmdc.json"}
+]}
